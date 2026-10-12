@@ -1,0 +1,32 @@
+id_cliente;nome;email;telefone
+1;Cliente Fictício 01;cliente01@example.com;910000001
+2;Cliente Fictício 02;cliente02@example.com;910000002
+3;Cliente Fictício 03;cliente03.example.com;910000003
+4;Cliente Fictício 04;;910000004
+5;  Cliente   Fictício 05  ;cliente05@example.com;910000005
+6;Cliente Fictício 06; CLIENTE06@EXAMPLE.COM ;910000006
+7;Cliente Fictício 07;cliente07@example.com;910000007
+8;Cliente Fictício 08;cliente08@example.com;910000008
+9;Cliente Fictício 09;cliente09@example.com;910000009
+10;Cliente Fictício 10;cliente10@example.com;910000010
+11;Cliente Fictício 11;cliente11@example.com;910000011
+12;Cliente Fictício 12;cliente12@example.com;910000012
+13;Cliente Fictício 13;cliente13@example.com;910000013
+14;Cliente Fictício 14;cliente14@example.com;910000014
+15;Cliente Fictício 15;cliente15@example.com;910000015
+16;Cliente Fictício 16;cliente16@example.com;910000016
+17;Cliente Fictício 17;cliente17@example.com;910000017
+18;Cliente Fictício 18;cliente18@example.com;910000018
+19;Cliente Fictício 19;cliente19@example.com;910000019
+20;Cliente Fictício 20;cliente20@example.com;910000020
+21;Cliente Fictício 21;cliente21@example.com;910000021
+22;Cliente Fictício 22;cliente22@example.com;910000022
+23;Cliente Fictício 23;cliente23@example.com;910000023
+24;Cliente Fictício 24;cliente24@example.com;910000024
+25;Cliente Fictício 25;cliente25@example.com;910000025
+26;Cliente Fictício 26;cliente26@example.com;910000026
+27;Cliente Fictício 27;cliente27@example.com;910000027
+28;Cliente Fictício 28;cliente28@example.com;910000028
+29;Cliente Fictício 29;cliente29@example.com;910000029
+30;Cliente Fictício 30;cliente30@example.com;910000030
+1;Cliente Fictício 01;cliente01@example.com;910000001

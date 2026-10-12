@@ -1,0 +1,317 @@
+[
+  {
+    "id_veiculo": 1,
+    "matricula": "AA-01-BB",
+    "marca": "Renault",
+    "modelo": "Clio",
+    "id_cliente": 1
+  },
+  {
+    "id_veiculo": 2,
+    "matricula": "AA-02-BB",
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "id_cliente": 2
+  },
+  {
+    "id_veiculo": 3,
+    "matricula": "AA-03-BB",
+    "marca": "Peugeot",
+    "modelo": "208",
+    "id_cliente": 3
+  },
+  {
+    "id_veiculo": 4,
+    "matricula": "AA-04-BB",
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "id_cliente": 4
+  },
+  {
+    "id_veiculo": 5,
+    "matricula": "AA-05-BB",
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "id_cliente": 5
+  },
+  {
+    "id_veiculo": 6,
+    "matricula": "AA-06-BB",
+    "marca": "Renault",
+    "modelo": "Clio",
+    "id_cliente": 6
+  },
+  {
+    "id_veiculo": 7,
+    "matricula": " aa-07-bb ",
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "id_cliente": 7
+  },
+  {
+    "id_veiculo": 8,
+    "matricula": "INVALIDA",
+    "marca": "Peugeot",
+    "modelo": "208",
+    "id_cliente": 8
+  },
+  {
+    "id_veiculo": 9,
+    "matricula": "AA-09-BB",
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "id_cliente": 999
+  },
+  {
+    "id_veiculo": 10,
+    "matricula": "AA-10-BB",
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "id_cliente": 10
+  },
+  {
+    "id_veiculo": 11,
+    "matricula": "AA-11-BB",
+    "marca": "Renault",
+    "modelo": "Clio",
+    "id_cliente": 11
+  },
+  {
+    "id_veiculo": 12,
+    "matricula": "AA-12-BB",
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "id_cliente": 12
+  },
+  {
+    "id_veiculo": 13,
+    "matricula": "AA-13-BB",
+    "marca": "Peugeot",
+    "modelo": "208",
+    "id_cliente": 13
+  },
+  {
+    "id_veiculo": 14,
+    "matricula": "AA-14-BB",
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "id_cliente": 14
+  },
+  {
+    "id_veiculo": 15,
+    "matricula": "AA-15-BB",
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "id_cliente": 15
+  },
+  {
+    "id_veiculo": 16,
+    "matricula": "AA-16-BB",
+    "marca": "Renault",
+    "modelo": "Clio",
+    "id_cliente": 16
+  },
+  {
+    "id_veiculo": 17,
+    "matricula": "AA-17-BB",
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "id_cliente": 17
+  },
+  {
+    "id_veiculo": 18,
+    "matricula": "AA-18-BB",
+    "marca": "Peugeot",
+    "modelo": "208",
+    "id_cliente": 18
+  },
+  {
+    "id_veiculo": 19,
+    "matricula": "AA-19-BB",
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "id_cliente": 19
+  },
+  {
+    "id_veiculo": 20,
+    "matricula": "AA-20-BB",
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "id_cliente": 20
+  },
+  {
+    "id_veiculo": 21,
+    "matricula": "AA-21-BB",
+    "marca": "Renault",
+    "modelo": "Clio",
+    "id_cliente": 21
+  },
+  {
+    "id_veiculo": 22,
+    "matricula": "AA-22-BB",
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "id_cliente": 22
+  },
+  {
+    "id_veiculo": 23,
+    "matricula": "AA-23-BB",
+    "marca": "Peugeot",
+    "modelo": "208",
+    "id_cliente": 23
+  },
+  {
+    "id_veiculo": 24,
+    "matricula": "AA-24-BB",
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "id_cliente": 24
+  },
+  {
+    "id_veiculo": 25,
+    "matricula": "AA-25-BB",
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "id_cliente": 25
+  },
+  {
+    "id_veiculo": 26,
+    "matricula": "AA-26-BB",
+    "marca": "Renault",
+    "modelo": "Clio",
+    "id_cliente": 26
+  },
+  {
+    "id_veiculo": 27,
+    "matricula": "AA-27-BB",
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "id_cliente": 27
+  },
+  {
+    "id_veiculo": 28,
+    "matricula": "AA-28-BB",
+    "marca": "Peugeot",
+    "modelo": "208",
+    "id_cliente": 28
+  },
+  {
+    "id_veiculo": 29,
+    "matricula": "AA-29-BB",
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "id_cliente": 29
+  },
+  {
+    "id_veiculo": 30,
+    "matricula": "AA-30-BB",
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "id_cliente": 30
+  },
+  {
+    "id_veiculo": 31,
+    "matricula": "AA-31-BB",
+    "marca": "Renault",
+    "modelo": "Clio",
+    "id_cliente": 1
+  },
+  {
+    "id_veiculo": 32,
+    "matricula": "AA-32-BB",
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "id_cliente": 2
+  },
+  {
+    "id_veiculo": 33,
+    "matricula": "AA-33-BB",
+    "marca": "Peugeot",
+    "modelo": "208",
+    "id_cliente": 3
+  },
+  {
+    "id_veiculo": 34,
+    "matricula": "AA-34-BB",
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "id_cliente": 4
+  },
+  {
+    "id_veiculo": 35,
+    "matricula": "AA-35-BB",
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "id_cliente": 5
+  },
+  {
+    "id_veiculo": 36,
+    "matricula": "AA-36-BB",
+    "marca": "Renault",
+    "modelo": "Clio",
+    "id_cliente": 6
+  },
+  {
+    "id_veiculo": 37,
+    "matricula": "AA-37-BB",
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "id_cliente": 7
+  },
+  {
+    "id_veiculo": 38,
+    "matricula": "AA-38-BB",
+    "marca": "Peugeot",
+    "modelo": "208",
+    "id_cliente": 8
+  },
+  {
+    "id_veiculo": 39,
+    "matricula": "AA-39-BB",
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "id_cliente": 9
+  },
+  {
+    "id_veiculo": 40,
+    "matricula": "AA-40-BB",
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "id_cliente": 10
+  },
+  {
+    "id_veiculo": 41,
+    "matricula": "AA-41-BB",
+    "marca": "Renault",
+    "modelo": "Clio",
+    "id_cliente": 11
+  },
+  {
+    "id_veiculo": 42,
+    "matricula": "AA-42-BB",
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "id_cliente": 12
+  },
+  {
+    "id_veiculo": 43,
+    "matricula": "AA-43-BB",
+    "marca": "Peugeot",
+    "modelo": "208",
+    "id_cliente": 13
+  },
+  {
+    "id_veiculo": 44,
+    "matricula": "AA-44-BB",
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "id_cliente": 14
+  },
+  {
+    "id_veiculo": 45,
+    "matricula": "AA-45-BB",
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "id_cliente": 15
+  }
+]
