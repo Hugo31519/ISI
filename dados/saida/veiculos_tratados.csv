@@ -1,8 +1,8 @@
 id_veiculo;matricula;marca;modelo;id_cliente;matricula_valida;id_cliente_encontrado;nome_cliente;email_cliente
 1;AA-01-BB;Renault;Clio;1;Y;1;Mariana Costa;mariana.costa@gmail.com
 2;AA-02-BB;Toyota;Yaris;2;Y;2;Tiago Ferreira;tiago.ferreira@gmail.com
-3;AA-03-BB;Peugeot;208;3;Y;3;In�s Martins;
-4;AA-04-BB;Volkswagen;Golf;4;Y;4;Jo�o Ribeiro;
+3;AA-03-BB;Peugeot;208;3;Y;3;Inês Martins;
+4;AA-04-BB;Volkswagen;Golf;4;Y;4;João Ribeiro;
 5;AA-05-BB;Ford;Fiesta;5;Y;5;Beatriz Almeida;beatriz.almeida@gmail.com
 6;AA-06-BB;Renault;Clio;6;Y;6;Miguel Santos;miguel.santos@gmail.com
 7;AA-07-BB;Toyota;Yaris;7;Y;7;Sofia Carvalho;sofia.carvalho@gmail.com
@@ -10,11 +10,11 @@ id_veiculo;matricula;marca;modelo;id_cliente;matricula_valida;id_cliente_encontr
 11;AA-11-BB;Renault;Clio;11;Y;11;Carolina Gomes;carolina.gomes@gmail.com
 12;AA-12-BB;Toyota;Yaris;12;Y;12;Rafael Lopes;rafael.lopes@gmail.com
 13;AA-13-BB;Peugeot;208;13;Y;13;Matilde Fernandes;matilde.fernandes@gmail.com
-14;AA-14-BB;Volkswagen;Golf;14;Y;14;Andr� Silva;andre.silva@gmail.com
+14;AA-14-BB;Volkswagen;Golf;14;Y;14;André Silva;andre.silva@gmail.com
 15;AA-15-BB;Ford;Fiesta;15;Y;15;Ana Moreira;ana.moreira@gmail.com
 16;AA-16-BB;Renault;Clio;16;Y;16;Francisco Sousa;francisco.sousa@gmail.com
 17;AA-17-BB;Toyota;Yaris;17;Y;17;Marta Teixeira;marta.teixeira@gmail.com
-18;AA-18-BB;Peugeot;208;18;Y;18;Gon�alo Correia;goncalo.correia@gmail.com
+18;AA-18-BB;Peugeot;208;18;Y;18;Gonçalo Correia;goncalo.correia@gmail.com
 19;AA-19-BB;Volkswagen;Golf;19;Y;19;Catarina Neves;catarina.neves@gmail.com
 20;AA-20-BB;Ford;Fiesta;20;Y;20;Ricardo Mendes;ricardo.mendes@gmail.com
 21;AA-21-BB;Renault;Clio;21;Y;21;Diana Barbosa;diana.barbosa@gmail.com
@@ -22,15 +22,15 @@ id_veiculo;matricula;marca;modelo;id_cliente;matricula_valida;id_cliente_encontr
 23;AA-23-BB;Peugeot;208;23;Y;23;Rita Azevedo;rita.azevedo@gmail.com
 24;AA-24-BB;Volkswagen;Golf;24;Y;24;Daniel Rocha;daniel.rocha@gmail.com
 25;AA-25-BB;Ford;Fiesta;25;Y;25;Sara Faria;sara.faria@gmail.com
-26;AA-26-BB;Renault;Clio;26;Y;26;Lu�s Machado;luis.machado@gmail.com
+26;AA-26-BB;Renault;Clio;26;Y;26;Luís Machado;luis.machado@gmail.com
 27;AA-27-BB;Toyota;Yaris;27;Y;27;Clara Pinto;clara.pinto@gmail.com
 28;AA-28-BB;Peugeot;208;28;Y;28;Nuno Coelho;nuno.coelho@gmail.com
 29;AA-29-BB;Volkswagen;Golf;29;Y;29;Teresa Vieira;teresa.vieira@gmail.com
 30;AA-30-BB;Ford;Fiesta;30;Y;30;Vasco Cunha;vasco.cunha@gmail.com
 31;AA-31-BB;Renault;Clio;1;Y;1;Mariana Costa;mariana.costa@gmail.com
 32;AA-32-BB;Toyota;Yaris;2;Y;2;Tiago Ferreira;tiago.ferreira@gmail.com
-33;AA-33-BB;Peugeot;208;3;Y;3;In�s Martins;
-34;AA-34-BB;Volkswagen;Golf;4;Y;4;Jo�o Ribeiro;
+33;AA-33-BB;Peugeot;208;3;Y;3;Inês Martins;
+34;AA-34-BB;Volkswagen;Golf;4;Y;4;João Ribeiro;
 35;AA-35-BB;Ford;Fiesta;5;Y;5;Beatriz Almeida;beatriz.almeida@gmail.com
 36;AA-36-BB;Renault;Clio;6;Y;6;Miguel Santos;miguel.santos@gmail.com
 37;AA-37-BB;Toyota;Yaris;7;Y;7;Sofia Carvalho;sofia.carvalho@gmail.com
@@ -40,5 +40,5 @@ id_veiculo;matricula;marca;modelo;id_cliente;matricula_valida;id_cliente_encontr
 41;AA-41-BB;Renault;Clio;11;Y;11;Carolina Gomes;carolina.gomes@gmail.com
 42;AA-42-BB;Toyota;Yaris;12;Y;12;Rafael Lopes;rafael.lopes@gmail.com
 43;AA-43-BB;Peugeot;208;13;Y;13;Matilde Fernandes;matilde.fernandes@gmail.com
-44;AA-44-BB;Volkswagen;Golf;14;Y;14;Andr� Silva;andre.silva@gmail.com
+44;AA-44-BB;Volkswagen;Golf;14;Y;14;André Silva;andre.silva@gmail.com
 45;AA-45-BB;Ford;Fiesta;15;Y;15;Ana Moreira;ana.moreira@gmail.com

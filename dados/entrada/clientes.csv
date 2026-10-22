@@ -1,8 +1,8 @@
 id_cliente;nome;email;telefone
 1;Mariana Costa;mariana.costa@gmail.com;910561924
 2;Tiago Ferreira;tiago.ferreira@gmail.com;910641117
-3;Inês Martins;ines.martins.gmail.com;910720310
-4;João Ribeiro;;910799503
+3;InÃªs Martins;ines.martins.gmail.com;910720310
+4;JoÃ£o Ribeiro;;910799503
 5;  Beatriz   Almeida  ;beatriz.almeida@gmail.com;910878696
 6;Miguel Santos; MIGUEL.SANTOS@gmail.com ;910957889
 7;Sofia Carvalho;sofia.carvalho@gmail.com;910037083
@@ -12,11 +12,11 @@ id_cliente;nome;email;telefone
 11;Carolina Gomes;carolina.gomes@gmail.com;910353855
 12;Rafael Lopes;rafael.lopes@gmail.com;910433048
 13;Matilde Fernandes;matilde.fernandes@gmail.com;910512241
-14;André Silva;andre.silva@gmail.com;910591434
+14;AndrÃ© Silva;andre.silva@gmail.com;910591434
 15;Ana Moreira;ana.moreira@gmail.com;910670627
 16;Francisco Sousa;francisco.sousa@gmail.com;910749820
 17;Marta Teixeira;marta.teixeira@gmail.com;910829013
-18;Gonçalo Correia;goncalo.correia@gmail.com;910908206
+18;GonÃ§alo Correia;goncalo.correia@gmail.com;910908206
 19;Catarina Neves;catarina.neves@gmail.com;910987399
 20;Ricardo Mendes;ricardo.mendes@gmail.com;910066593
 21;Diana Barbosa;diana.barbosa@gmail.com;910145786
@@ -24,7 +24,7 @@ id_cliente;nome;email;telefone
 23;Rita Azevedo;rita.azevedo@gmail.com;910304172
 24;Daniel Rocha;daniel.rocha@gmail.com;910383365
 25;Sara Faria;sara.faria@gmail.com;910462558
-26;Luís Machado;luis.machado@gmail.com;910541751
+26;LuÃ­s Machado;luis.machado@gmail.com;910541751
 27;Clara Pinto;clara.pinto@gmail.com;910620944
 28;Nuno Coelho;nuno.coelho@gmail.com;910700137
 29;Teresa Vieira;teresa.vieira@gmail.com;910779330
