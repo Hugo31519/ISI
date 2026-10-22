@@ -1,8 +1,11 @@
 -- Executar numa base PostgreSQL dedicada chamada oficina_etl.
--- Pode ser repetido; não apaga resultados existentes.
+-- Prepara a estrutura e o catálogo. Não elimina intervenções existentes.
+-- preco_hora é a tarifa do serviço; custo_total = horas * tarifa + peças.
+-- O total é um valor calculado sem IVA, não um apuramento de custos internos ou lucro.
 BEGIN;
 CREATE SCHEMA IF NOT EXISTS origem;
 CREATE SCHEMA IF NOT EXISTS destino;
+
 CREATE TABLE IF NOT EXISTS origem.servicos (
     codigo_servico varchar(3) PRIMARY KEY,
     descricao text NOT NULL,
@@ -19,6 +22,7 @@ INSERT INTO origem.servicos VALUES
 ('S08','Manutenção de ar condicionado',40.00)
 ON CONFLICT (codigo_servico) DO UPDATE
 SET descricao=EXCLUDED.descricao, preco_hora=EXCLUDED.preco_hora;
+
 CREATE TABLE IF NOT EXISTS destino.intervencoes_integradas (
     id_intervencao integer PRIMARY KEY,
     id_veiculo integer NOT NULL,

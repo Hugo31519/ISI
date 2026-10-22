@@ -1,0 +1,2 @@
+id_veiculo;matricula;marca;modelo;id_cliente;matricula_valida;id_cliente_encontrado;nome_cliente;email_cliente;motivo_rejeicao
+9;AA-09-BB;Volkswagen;Golf;999;Y;;;;Cliente associado ao veículo não existe

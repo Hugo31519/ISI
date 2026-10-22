@@ -1,0 +1,3 @@
+id_intervencao;id_veiculo;data;codigo_servico;horas_trabalho;custo_pecas;motivo_rejeicao
+3;31;2026-07-10;S02;-1.00;46.81;Horas de trabalho ausentes ou menores ou iguais a zero
+7;43;2026-07-25;S03;;4.94;Horas de trabalho ausentes ou menores ou iguais a zero

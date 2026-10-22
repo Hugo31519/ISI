@@ -1,0 +1,7 @@
+id_intervencao;id_veiculo;"data";"codigo_servico";horas_trabalho;custo_pecas;"data_normalizada";"detalhe_erro_data";"motivo_rejeicao"
+"5";"28";"2026-02-30";"S03";"1.00";"166.06";"2026-02-30";"
+
+data_normalizada String : couldn't convert string [2026-02-30] to a date using format [yyyy-MM-dd] on offset location 10
+2026-02-30
+
+";"Data da intervenção inválida"

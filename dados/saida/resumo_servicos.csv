@@ -1,0 +1,9 @@
+codigo_servico;descricao_servico;total_intervencoes;total_horas;total_custo_pecas;total_custo;custo_medio_intervencao
+S01;Mudança de óleo;14;21.00;927.60;1557.60;111.26
+S02;Substituição de travões;17;25.00;1252.01;2127.01;125.12
+S03;Troca de pneus;23;42.50;2514.27;3576.77;155.51
+S04;Diagnóstico eletrónico;11;17.00;996.63;1676.63;152.42
+S05;Revisão geral;22;33.50;2814.89;3987.39;181.25
+S06;Substituição de bateria;16;25.50;1681.68;2319.18;144.95
+S07;Alinhamento de direção;18;30.00;1619.26;2519.26;139.96
+S08;Manutenção de ar condicionado;19;28.00;2303.31;3423.31;180.17

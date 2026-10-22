@@ -1,0 +1,2 @@
+id_veiculo;matricula;marca;modelo;id_cliente;matricula_valida;motivo_rejeicao
+8;INVALIDA;Peugeot;208;8;N;Matrícula com formato inválido

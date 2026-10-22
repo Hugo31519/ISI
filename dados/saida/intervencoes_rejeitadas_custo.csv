@@ -1,0 +1,2 @@
+id_intervencao;id_veiculo;data;codigo_servico;horas_trabalho;custo_pecas;motivo_rejeicao
+4;25;2026-03-28;S07;3.00;-10.00;Custo das peças ausente ou negativo

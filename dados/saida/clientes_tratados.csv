@@ -1,0 +1,31 @@
+id_cliente;nome;email;telefone;email_valido;motivo_aviso
+1;Mariana Costa;mariana.costa@gmail.com;910561924;Y;
+2;Tiago Ferreira;tiago.ferreira@gmail.com;910641117;Y;
+3;In�s Martins;;910720310;N;Email ausente ou com formato inválido
+4;Jo�o Ribeiro;;910799503;N;Email ausente ou com formato inválido
+5;Beatriz Almeida;beatriz.almeida@gmail.com;910878696;Y;
+6;Miguel Santos;miguel.santos@gmail.com;910957889;Y;
+7;Sofia Carvalho;sofia.carvalho@gmail.com;910037083;Y;
+8;Diogo Pereira;diogo.pereira@gmail.com;910116276;Y;
+9;Leonor Rodrigues;leonor.rodrigues@gmail.com;910195469;Y;
+10;Pedro Oliveira;pedro.oliveira@gmail.com;910274662;Y;
+11;Carolina Gomes;carolina.gomes@gmail.com;910353855;Y;
+12;Rafael Lopes;rafael.lopes@gmail.com;910433048;Y;
+13;Matilde Fernandes;matilde.fernandes@gmail.com;910512241;Y;
+14;Andr� Silva;andre.silva@gmail.com;910591434;Y;
+15;Ana Moreira;ana.moreira@gmail.com;910670627;Y;
+16;Francisco Sousa;francisco.sousa@gmail.com;910749820;Y;
+17;Marta Teixeira;marta.teixeira@gmail.com;910829013;Y;
+18;Gon�alo Correia;goncalo.correia@gmail.com;910908206;Y;
+19;Catarina Neves;catarina.neves@gmail.com;910987399;Y;
+20;Ricardo Mendes;ricardo.mendes@gmail.com;910066593;Y;
+21;Diana Barbosa;diana.barbosa@gmail.com;910145786;Y;
+22;Bruno Cardoso;bruno.cardoso@gmail.com;910224979;Y;
+23;Rita Azevedo;rita.azevedo@gmail.com;910304172;Y;
+24;Daniel Rocha;daniel.rocha@gmail.com;910383365;Y;
+25;Sara Faria;sara.faria@gmail.com;910462558;Y;
+26;Lu�s Machado;luis.machado@gmail.com;910541751;Y;
+27;Clara Pinto;clara.pinto@gmail.com;910620944;Y;
+28;Nuno Coelho;nuno.coelho@gmail.com;910700137;Y;
+29;Teresa Vieira;teresa.vieira@gmail.com;910779330;Y;
+30;Vasco Cunha;vasco.cunha@gmail.com;910858523;Y;

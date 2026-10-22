@@ -1,0 +1,6 @@
+id_intervencao;id_veiculo;data;codigo_servico;horas_trabalho;custo_pecas;data_intervencao;id_veiculo_encontrado;matricula;marca;modelo;id_cliente;nome_cliente;email_cliente;motivo_rejeicao
+1;999;2026-07-21;S01;2.00;129.68;2026-07-21;;;;;;;;Veículo inexistente ou rejeitado no tratamento dos veículos
+58;9;2026-04-28;S02;1.50;101.20;2026-04-28;;;;;;;;Veículo inexistente ou rejeitado no tratamento dos veículos
+74;8;2026-07-18;S07;0.50;117.40;2026-07-18;;;;;;;;Veículo inexistente ou rejeitado no tratamento dos veículos
+94;9;2026-09-09;S04;2.00;187.69;2026-09-09;;;;;;;;Veículo inexistente ou rejeitado no tratamento dos veículos
+135;9;2026-07-26;S05;3.00;44.92;2026-07-26;;;;;;;;Veículo inexistente ou rejeitado no tratamento dos veículos

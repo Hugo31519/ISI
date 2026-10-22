@@ -1,5 +1,7 @@
 logs/
-dados/saida/
+dados/saida/*
+!dados/saida/*.csv
 .env
 __pycache__/
 *.pyc
+~$*

@@ -1,0 +1,2 @@
+id_intervencao;id_veiculo;data;codigo_servico;horas_trabalho;custo_pecas;data_intervencao;id_veiculo_encontrado;matricula;marca;modelo;id_cliente;nome_cliente;email_cliente;codigo_servico_encontrado;descricao_servico;preco_hora;motivo_rejeicao
+2;44;2026-02-10;S99;0.50;126.43;2026-02-10;44;AA-44-BB;Volkswagen;Golf;14;Andr� Silva;andre.silva@gmail.com;   ;;;Código de serviço inexistente no catálogo
